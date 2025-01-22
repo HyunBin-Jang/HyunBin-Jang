@@ -1,3 +1,7 @@
+<h1 align="center">Hi there, I'm Hyunbin Jang 👋</h1>
+<h3 align="center">🎓 A Computer Science student at Dongguk University </h3>
+<h4 align="center">🌟 Passionate about backend development </h4>
+
 ### 🛠 Tech Stack & Tools
 
 #### **Languages**
@@ -18,7 +22,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=janghb3730)](https://solved.ac/janghb3730)
 
 ---
-[![HyunBin-Jang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HyunBin-Jang)](https://github.com/HyunBin-Jang/github-readme-activity-graph)
+
 <!--
 **HyunBin-Jang/HyunBin-Jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
