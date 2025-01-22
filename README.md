@@ -18,7 +18,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=janghb3730)](https://solved.ac/janghb3730)
 
 ---
- [![github activity graph](https://activity-graph.herokuapp.com/graph?username=HyunBin-Jang&theme=monokai)](https://github.com/soyeon207/github-readme-activity-graph)
+ [![github activity graph](https://activity-graph.herokuapp.com/graph?username=HyunBin-Jang&theme=monokai)](https://github.com/HyunBin-Jang/github-readme-activity-graph)
 <!--
 **HyunBin-Jang/HyunBin-Jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
