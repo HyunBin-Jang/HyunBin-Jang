@@ -1,4 +1,3 @@
-<h1 align="center">Hi there, I'm Hyunbin Jang 👋</h1>
 <h3 align="center">🎓 A Computer Science student at Dongguk University </h3>
 <h4 align="center">🌟 Passionate about backend development </h4>
 
