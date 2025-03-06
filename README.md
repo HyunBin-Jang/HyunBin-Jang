@@ -1,26 +1,24 @@
 <div align="center">
   
-  ### DGU CSE20 HyunBin
+  ### DGU CSE20 HyunBin</br>
 
   ---
 </div>
 
 <div>
   <!--Body-->
-
   ### 🛠 Tech Stack & Tools
-  
-  #### **Languages**
+  <p>
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  
-  #### **Frameworks & Tools**
+  </p>
+  <p>
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
   ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=jpa&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  
+  </p>
   ---
   ####📊 Algorithm & Problem Solving
   #### Solved.ac Profile
