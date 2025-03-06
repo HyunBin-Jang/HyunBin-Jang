@@ -25,5 +25,6 @@
   ####📊 Algorithm & Problem Solving
   #### Solved.ac Profile
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=janghb3730)](https://solved.ac/janghb3730)
+  <img src="http://mazandi.herokuapp.com/api?handle={janghb3730}&theme=warm"/>
   ---
 </div>
