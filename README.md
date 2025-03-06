@@ -1,15 +1,6 @@
 <div>
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=I%20want%20to%20graduate...%20)
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-</div>
-
-<div>
   <!--Body-->
-  
-  ## 👀 About Me
-  #### :fire: Passionate about backend development.<br/>
-  #### :mortar_board: A Computer Science student at Dongguk University
+  DGU CSE20
   <br/>
   <br/>
 
@@ -27,7 +18,6 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   
   ---
-  
   ### 📊 Algorithm & Problem Solving
   #### Solved.ac Profile
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=janghb3730)](https://solved.ac/janghb3730)
