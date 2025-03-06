@@ -1,8 +1,12 @@
+<div align="center">
+  
+  ### DGU CSE20 HyunBin
+
+  ---
+</div>
+
 <div>
   <!--Body-->
-  DGU CSE20
-  <br/>
-  <br/>
 
   ### 🛠 Tech Stack & Tools
   
@@ -18,8 +22,12 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   
   ---
-  ### 📊 Algorithm & Problem Solving
+  <details>
+  <summary>📊 Algorithm & Problem Solving</summary>
+  <div markdown="1">
   #### Solved.ac Profile
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=janghb3730)](https://solved.ac/janghb3730)
   ---
+  </div>
+  </details>
 </div>
